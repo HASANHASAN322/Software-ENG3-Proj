@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+
+ //زينة حمد
 class CityPropertiesScreen extends StatefulWidget {
   final String cityName;
 
