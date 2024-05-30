@@ -11,7 +11,7 @@ import '../widgets/AnimatedRoutes/blur_page_route.dart';
 import '../widgets/Erros/no_data_found.dart';
 import '../widgets/Erros/something_went_wrong.dart';
 import 'Widgets/property_horizontal_card.dart';
-
+ //جعفر معروف
 class PromotedPropertiesScreen extends StatefulWidget {
   const PromotedPropertiesScreen({super.key});
 
