@@ -62,6 +62,8 @@ import 'Widgets/property_card_big.dart';
 import 'slider_widget.dart';
 
 const double sidePadding = 18;
+// حسن حسن 
+// احمد الغنيم
 
 class HomeScreen extends StatefulWidget {
   final String? from;
