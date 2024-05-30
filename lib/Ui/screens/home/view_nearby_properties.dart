@@ -10,7 +10,7 @@ import '../../../utils/ui_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../widgets/AnimatedRoutes/blur_page_route.dart';
-
+//عبادة صالح
 class NearbyAllPropertiesScreen extends StatefulWidget {
   const NearbyAllPropertiesScreen({super.key});
 
