@@ -15,6 +15,8 @@ import '../../../utils/helper_utils.dart';
 import '../../../data/model/property_model.dart';
 import '../../../utils/ui_utils.dart';
 
+//نور البصري 
+//علي عباس علي 
 class SearchScreen extends StatefulWidget {
   final bool autoFocus;
   final bool openFilterScreen;
