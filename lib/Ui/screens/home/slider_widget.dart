@@ -17,6 +17,9 @@ import '../../../utils/ui_utils.dart';
 import '../widgets/promoted_widget.dart';
 import 'home_screen.dart';
 
+
+
+//بشرى الهريان
 class SliderWidget extends StatefulWidget {
   const SliderWidget({Key? key}) : super(key: key);
 
